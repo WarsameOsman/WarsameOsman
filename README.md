@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WarsameOsman
+- 👀 I’m interested in ...becoming a software engineer
+- 🌱 I’m currently learning ...python.
+- 📫 How to reach me - @warsam.e on instagram
